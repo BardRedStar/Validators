@@ -1,8 +1,7 @@
 //
 //  String+Extensions.swift
-//  Skipper
 //
-//  Created by Denis Kovalev on 09.11.2022.
+//  Created by Denis Kovalev
 //
 
 import Foundation
